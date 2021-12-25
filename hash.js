@@ -1,4 +1,4 @@
-import { createHash } from 'crypto';
+const { createHash } = require('crypto')
 
 // create a string hash
 
